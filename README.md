@@ -2,7 +2,7 @@
 
 Dataset of synthetic faces modified by a GAN-fingerprint removal approach
 
-[http:/socia-lab.di.ubi.pt/~jcneves/iFakeFace.zip](http:/socia-lab.di.ubi.pt/~jcneves/iFakeFace.zip)
+[http:/socia-lab.di.ubi.pt/~jcneves/iFakeFaceDB.zip](http:/socia-lab.di.ubi.pt/~jcneves/iFakeFaceDB.zip)
 
 
 If you use this dataset in your research please cite the following paper:
