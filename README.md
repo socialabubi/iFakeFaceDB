@@ -6,7 +6,7 @@
 
 ## Sample Images
 
-![image](https://github.com/socialabubi/iFakeFaceDB/blob/master/iFakeFaceDB.png)
+![image, 20%](https://github.com/socialabubi/iFakeFaceDB/blob/master/iFakeFaceDB.png) 
 
 
 ## iFakeFaceDB Dataset Downloads
